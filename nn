@@ -1,0 +1,31 @@
+I. Logarithm: If a is a positive real number, other than 1 and am = x, then we write : m = loga x and we say
+that the value of log x to the base a is m.
+ Example:
+ (i) 103 = 1000 ⇒ log10 1000 = 3 (ii) 34 = 81 ⇒ log3 81 = 4
+ (ii) 3 1 2
+8
+− = ⇒ 2
+1 log 3 8 = − (iv) (.1)2 = .01 ⇒ log(.1) ·01 = 2
+II. Properties of Logarithms:
+ 1. loga (xy) = loga x + loga y 2. log log – log a aa
+x
+x y
+y
+  =    
+ 3. logx x = 1 4. loga 1 = 0
+ 5. loga (x p) = p (loga x) 6.
+1 log log a
+x
+x
+a =
+ 7. loga x = log log
+log log
+b
+b
+x x
+a a = 8. loga x a = x
+ 9. log log a a = y x x y 10. log a
+p
+q x = p
+q logax
+ Remember: When base is not m
